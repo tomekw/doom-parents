@@ -14,6 +14,12 @@ A set of Doom Emacs mappings for manipulating parentheses and sexps
 (use-package! doom-parents)
 ```
 
+and then:
+
+```shell
+$ doom sync
+```
+
 ## Usage
 
 1. Wrap sexp in round parentheses
