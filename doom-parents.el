@@ -42,6 +42,8 @@
    :desc "wrap round" "(" #'sp-wrap-round
    :desc "wrap square" "[" #'sp-wrap-square
    :desc "wrap curly" "{" #'sp-wrap-curly
+   :desc "kill sexp" "d" #'sp-kill-sexp
+   :desc "copy sexp" "y" #'sp-copy-sexp
    :desc "raise" "r" #'sp-raise-sexp
    (:prefix (">" . "right side")
     :desc "push" ")" #'sp-forward-slurp-sexp

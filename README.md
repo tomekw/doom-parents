@@ -34,6 +34,14 @@ $ doom sync
 
    `SPC` - `c` -`p` - `{`
 
+1. Copy sexp
+
+   `SPC` - `c` -`p` - `y`
+
+1. Kill sexp
+
+   `SPC` - `c` -`p` - `d`
+
 1. Raise sexp
 
    `SPC` - `c` -`p` - `r`
